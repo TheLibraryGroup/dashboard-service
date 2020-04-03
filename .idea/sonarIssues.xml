@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/dummy.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/config-files/discovery-service.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/configuration-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/configuration-service/src/main/java/org/thibaut/thelibrary/configurationservice/ConfigurationServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/configuration-service/src/main/java/org/thibaut/thelibrary/configurationservice/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/configuration-service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/discovery-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/discovery-service/src/main/java/org/thibaut/discoveryservice/DiscoveryServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/discovery-service/src/main/java/org/thibaut/discoveryservice/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/discovery-service/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/src/main/java/org/thibaut/servicegateway/GatewayApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/src/main/java/org/thibaut/servicegateway/LoggingGlobalPreFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/src/main/java/org/thibaut/servicegateway/PreFlightCorsConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/src/main/java/org/thibaut/servicegateway/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/gateway-service/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/entity/src/main/java/org/thibaut/thelibrary/entity/BookEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/microservice/src/main/java/org/thibaut/thelibrary/BookApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/microservice/src/main/java/org/thibaut/thelibrary/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/microservice/src/main/java/org/thibaut/thelibrary/controller/BookController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/microservice/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/service/src/main/java/org/thibaut/thelibrary/dto/BookDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/service/src/main/java/org/thibaut/thelibrary/mapper/BookMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/service/src/main/java/org/thibaut/thelibrary/mapper/WithTimezoneToLocalDate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/service/src/main/java/org/thibaut/thelibrary/service/impl/BookServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-book/service/target/generated-sources/annotations/org/thibaut/thelibrary/mapper/BookMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-loan/microservice/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/workspace/OpenclassroomsProjects/TheLibrary/TheLibraryGroup/microservice-loan/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../EXTERNE/spring-boot-admin/spring-boot-admin-samples/spring-boot-admin-sample-eureka/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/src/main/java/org/thibaut/thelibrary/adminserver/AdminserverApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/src/main/java/org/thibaut/thelibrary/adminserver/MonitoringServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/src/main/java/org/thibaut/thelibrary/adminserver/SecuritySecureConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/src/main/java/org/thibaut/thelibrary/adminserver/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../adminserver/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/thibaut/thelibrary/dashboardservice/DashboardServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/thibaut/thelibrary/dashboardservice/HystrixDashboardApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/thibaut/thelibrary/dashboardservice/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/thibaut/thelibrary/hystrixdashboard/HystrixDashboardApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/configuration-service/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/configuration-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/discovery-service/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/discovery-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-hassan/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tl-docker-test/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
