@@ -3,7 +3,7 @@ server:
 
 spring:
     application:
-        name: hystrix-dashboard
+        name: dashboard
     cloud:
         discovery:
             enabled: true
@@ -27,3 +27,9 @@ management:
         web:
             exposure:
                 include: "*"
+
+turbine:
+    aggregator:
+        cluster-config: thelibrary
+    app-config: book, loan
+    clusterNameExpression: new String('default')

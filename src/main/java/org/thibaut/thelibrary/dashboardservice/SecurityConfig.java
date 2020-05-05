@@ -15,18 +15,25 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 //	@Override
 //	public void configure( AuthenticationManagerBuilder auth) throws Exception {
-//		auth.inMemoryAuthentication()
+//		auth
+//				.inMemoryAuthentication()
 //				.passwordEncoder( NoOpPasswordEncoder.getInstance())
-//				.withUser("admin").password("admin")
+//				.withUser("hystUser")
+//				.password("hystPassword")
 //				.authorities("ADMIN");
 //	}
-
 
     @Override
     protected void configure( HttpSecurity http) throws Exception {
         http
 		        .authorizeRequests()
-		            .antMatchers(HttpMethod.GET, "/actuator/**").permitAll().and()
-		        .csrf().disable();
+		        .antMatchers(HttpMethod.GET, "/actuator/**").permitAll()
+
+		        .antMatchers(HttpMethod.GET, "/hystrix/**").permitAll()
+		        .antMatchers(HttpMethod.POST, "/hystrix/**").permitAll()
+		        .antMatchers(HttpMethod.DELETE, "/hystrix/**").permitAll()
+		        .antMatchers(HttpMethod.PUT, "/hystrix/**").permitAll()
+
+		        .and().csrf().disable();
     }
 }

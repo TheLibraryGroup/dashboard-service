@@ -15,10 +15,11 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<start-class>org.thibaut.thelibrary.dashboardservice.DashboardServiceApplication</start-class>
+		<start-class>org.thibaut.thelibrary.dashboardservice.DashboardApplication</start-class>
 		<java.version>11</java.version>
 		<spring-cloud.version>Hoxton.SR3</spring-cloud.version>
 		<maven-compiler-plugin.source-target.version>1.8</maven-compiler-plugin.source-target.version>
+		<spring-cloud-starter-turbine.version>1.4.7.RELEASE</spring-cloud-starter-turbine.version>
 	</properties>
 
 	<dependencies>
@@ -37,6 +38,18 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-turbine</artifactId>
+			<version>${spring-cloud-starter-turbine.version}</version>
+			<exclusions>
+				<exclusion>
+					<groupId>javax.servlet</groupId>
+					<artifactId>servlet-api</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 
 		<dependency>
